@@ -1,201 +1,181 @@
 message_id,message,category,risk_level,synthetic,verification_status
-SMS001,Your courier delivery requires additional information. Pay the delivery fee now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS002,Your online job application is ready for immediate approval. Complete the employment form now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS003,Your parcel could not be delivered. Update your delivery details now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS004,Your delivery has been placed on hold. Confirm your delivery address now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS005,Your debit card requires an identity check. Confirm your account now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS006,Your selected reward requires identity confirmation. Verify your information now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS007,Your appointment is confirmed for Monday at 4:30 PM.,Legitimate,Green,True,needs_review
-SMS008,Your account security has a pending security alert. Update your information now using the secure verification page.,Bank Scam,Amber,True,needs_review
-SMS009,Your appointment reminder is for Monday at 3:30 PM.,Legitimate,Green,True,needs_review
-SMS010,Your parcel requires additional information. Confirm your parcel now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS011,Your selected reward has been approved. Verify your information now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS012,Your computer has an unusual security alert. Confirm your device details now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS013,Your online banking access requires immediate verification. Review the security alert now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS014,Your online banking access requires immediate verification. Verify your details now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS015,Your library book is due on Friday.,Legitimate,Green,True,needs_review
-SMS016,Your debit card requires an identity check. Confirm the transaction now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS017,Your order has been dispatched and can be tracked through the official app.,Legitimate,Green,True,needs_review
-SMS018,Your debit card requires an identity check. Update your information now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS019,Your outstanding notice requires an immediate response. Review the notice now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS020,Your scheduled service appointment is confirmed for Friday.,Legitimate,Green,True,needs_review
-SMS021,A special financial opportunity has limited availability. Transfer the initial amount now using the secure verification page.,Investment Scam,Amber,True,needs_review
-SMS022,Your job offer has been shortlisted. Complete the employment form now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS023,A recent transaction has detected unusual activity. Review the security alert now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS024,Your internet connection may have been infected. Contact technical support now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS025,Your investment opportunity has limited availability. Register for the opportunity now using the secure verification page.,Investment Scam,Amber,True,needs_review
-SMS026,Your package requires additional information. Update your delivery details now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS027,Your online government account has a pending notification. Complete the requested information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS028,Your delivery has been scheduled for Monday.,Legitimate,Green,True,needs_review
-SMS029,Your bank account requires immediate verification. Update your information now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS030,Your account statement has been generated successfully.,Legitimate,Green,True,needs_review
-SMS031,Your online government account is awaiting confirmation. Review the notice now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS032,Your university class is scheduled for Friday at 4:30 PM.,Legitimate,Green,True,needs_review
-SMS033,Your selected reward requires identity confirmation. Confirm your details now using the secure verification page.,Prize Scam,Amber,True,needs_review
-SMS034,Your online government account requires urgent verification. Confirm your details now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS035,Your computer has detected a serious security problem. Contact technical support now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS036,A special financial opportunity expires today. Register for the opportunity now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS037,A limited investment opportunity requires an initial transfer. Confirm your investment now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS038,Your membership renewal is scheduled for Wednesday.,Legitimate,Green,True,needs_review
-SMS039,Your membership renewal is scheduled for Monday.,Legitimate,Green,True,needs_review
-SMS040,A remote employment opportunity has been shortlisted. Complete the employment form now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS041,Your internet connection requires immediate technical support. Contact technical support now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS042,Your package could not be delivered. Update your delivery details now using the secure verification page.,Delivery Scam,Amber,True,needs_review
-SMS043,Your job offer has been shortlisted. Provide your personal information now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS044,Your appointment reminder is for Tuesday at 3:30 PM.,Legitimate,Green,True,needs_review
-SMS045,Your delivery has been scheduled for Wednesday.,Legitimate,Green,True,needs_review
-SMS046,Your monthly statement is now available in your official online account.,Legitimate,Green,True,needs_review
-SMS047,Your outstanding notice has an outstanding issue. Complete the requested information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS048,Your government payment is awaiting confirmation. Complete the requested information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS049,Your account security requires an urgent security check. Install the recommended software now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS050,A special financial opportunity requires an initial transfer. Register for the opportunity now using the secure verification page.,Investment Scam,Amber,True,needs_review
-SMS051,Your work-from-home application has been selected for further processing. Complete the employment form now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS052,Your prize is waiting to be claimed. Confirm your details now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS053,Your account security may have been infected. Confirm your device details now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS054,Your online job application requires additional personal information. Pay the registration fee now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS055,A limited investment opportunity expires today. Provide your payment details now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS056,A recent transaction requires an identity check. Review the security alert now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS057,Your appointment reminder is for Friday at 3:30 PM.,Legitimate,Green,True,needs_review
-SMS058,Your appointment is confirmed for Monday at 2:00 PM.,Legitimate,Green,True,needs_review
-SMS059,Your internet connection may have been infected. Download the security tool now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS060,Your selected reward requires identity confirmation. Pay the processing fee now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS061,Your university class is scheduled for Tuesday at 3:30 PM.,Legitimate,Green,True,needs_review
-SMS062,Your package requires additional information. Reschedule the delivery now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS063,Your appointment is confirmed for Thursday at 4:30 PM.,Legitimate,Green,True,needs_review
-SMS064,Your tax record requires an immediate response. Confirm your account now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS065,A recent transaction has detected unusual activity. Verify your details now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS066,Your investment opportunity offers guaranteed returns. Confirm your investment now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS067,Your government payment is awaiting confirmation. Verify your information now using the secure verification page.,Government Scam,Amber,True,needs_review
-SMS068,Your investment account offers guaranteed returns. Provide your payment details now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS069,Your competition prize is waiting to be claimed. Complete the claim form now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS070,Your competition prize expires today. Claim your reward now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS071,Your online government account has a pending notification. Verify your information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS072,Your payment has been received successfully.,Legitimate,Green,True,needs_review
-SMS073,Your job offer is ready for immediate approval. Complete the employment form now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS074,Your online job application has been selected for further processing. Pay the registration fee now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS075,Your computer has detected a serious security problem. Install the recommended software now using the secure verification page.,Tech Support Scam,Amber,True,needs_review
-SMS076,Your account security requires immediate technical support. Contact technical support now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS077,Your package could not be delivered. Pay the delivery fee now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS078,A special financial opportunity has limited availability. Provide your payment details now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS079,Your delivery has been scheduled for Saturday.,Legitimate,Green,True,needs_review
-SMS080,Your scheduled maintenance appointment is confirmed.,Legitimate,Green,True,needs_review
-SMS081,Your appointment is confirmed for Tuesday at 12:00 PM.,Legitimate,Green,True,needs_review
-SMS082,Your library book is due on Wednesday.,Legitimate,Green,True,needs_review
-SMS083,Your debit card requires immediate verification. Update your information now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS084,A special financial opportunity has limited availability. Secure your investment now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS085,Your account notification is available in the official application.,Legitimate,Green,True,needs_review
-SMS086,Your appointment is confirmed for Saturday at 10:30 AM.,Legitimate,Green,True,needs_review
-SMS087,Your cash reward expires today. Verify your information now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS088,Your device has detected a serious security problem. Download the security tool now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS089,A flexible work opportunity has been selected for further processing. Pay the registration fee now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS090,Your government payment requires an immediate response. Verify your information now using the secure verification page.,Government Scam,Amber,True,needs_review
-SMS091,Your courier delivery has been placed on hold. Confirm your parcel now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS092,Your appointment reminder is for Wednesday at 2:00 PM.,Legitimate,Green,True,needs_review
-SMS093,A remote employment opportunity requires additional personal information. Complete the employment form now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS094,Your delivery has been scheduled for Tuesday.,Legitimate,Green,True,needs_review
-SMS095,Your appointment reminder is for Tuesday at 4:30 PM.,Legitimate,Green,True,needs_review
-SMS096,A new investment offer requires an initial transfer. Transfer the initial amount now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS097,A flexible work opportunity is ready for immediate approval. Pay the registration fee now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS098,Your scheduled service appointment is confirmed for Thursday.,Legitimate,Green,True,needs_review
-SMS099,Your selected reward expires today. Complete the claim form now using the secure verification page.,Prize Scam,Amber,True,needs_review
-SMS100,Your document is ready to collect from the service centre.,Legitimate,Green,True,needs_review
-SMS101,Your prize requires identity confirmation. Pay the processing fee now using the secure verification page.,Prize Scam,Amber,True,needs_review
-SMS102,Your work-from-home application requires an application payment. Complete the employment form now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS103,Your work-from-home application has been shortlisted. Confirm your application now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS104,Your bank account requires an identity check. Confirm your account now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS105,Your account security has detected a serious security problem. Contact technical support now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS106,Your university class is scheduled for Friday at 12:00 PM.,Legitimate,Green,True,needs_review
-SMS107,Your shipment has been placed on hold. Pay the delivery fee now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS108,Your appointment is confirmed for Saturday at 2:00 PM.,Legitimate,Green,True,needs_review
-SMS109,Your online government account requires urgent verification. Verify your information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS110,Your parcel has been delivered successfully.,Legitimate,Green,True,needs_review
-SMS111,Your membership renewal is scheduled for Tuesday.,Legitimate,Green,True,needs_review
-SMS112,Your government payment requires urgent verification. Verify your information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS113,Your online government account is awaiting confirmation. Confirm your account now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS114,Your appointment reminder is for Friday at 12:00 PM.,Legitimate,Green,True,needs_review
-SMS115,Your debit card requires immediate verification. Verify your details now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS116,Your online job application has been selected for further processing. Provide your personal information now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS117,Your internet connection requires immediate technical support. Download the security tool now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS118,Your online banking access requires an identity check. Review the security alert now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS119,Your online job application requires an application payment. Send your banking details now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS120,Your shipment is waiting for address confirmation. Confirm your parcel now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS121,Your appointment reminder is for Friday at 2:00 PM.,Legitimate,Green,True,needs_review
-SMS122,Your internet connection has an unusual security alert. Contact technical support now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS123,Your university class is scheduled for Friday at 3:30 PM.,Legitimate,Green,True,needs_review
-SMS124,Your account security may have been infected. Contact technical support now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS125,Your delivery has been scheduled for Thursday.,Legitimate,Green,True,needs_review
-SMS126,Your account security has been temporarily restricted. Confirm your account now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS127,Your university timetable has been updated.,Legitimate,Green,True,needs_review
-SMS128,Your courier delivery requires a delivery payment. Update your delivery details now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS129,Your appointment reminder is for Tuesday at 2:00 PM.,Legitimate,Green,True,needs_review
-SMS130,A limited investment opportunity requires an initial transfer. Transfer the initial amount now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS131,Your selected reward requires a processing payment. Pay the processing fee now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS132,Your selected reward expires today. Verify your information now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS133,Your security software has an unusual security alert. Call the support number now using the secure verification page.,Tech Support Scam,Amber,True,needs_review
-SMS134,Your government account requires an immediate response. Confirm your details now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS135,Your electricity bill is now available to view online.,Legitimate,Green,True,needs_review
-SMS136,Your courier delivery could not be delivered. Update your delivery details now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS137,Your appointment reminder is for Thursday at 9:00 AM.,Legitimate,Green,True,needs_review
-SMS138,Your tax record requires an immediate response. Review the notice now using the secure verification page.,Government Scam,Amber,True,needs_review
-SMS139,A remote employment opportunity has been shortlisted. Send your banking details now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS140,Your application has been received successfully.,Legitimate,Green,True,needs_review
-SMS141,Your parcel is waiting for address confirmation. Confirm your parcel now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS142,A flexible work opportunity has been shortlisted. Pay the registration fee now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS143,Your parcel requires additional information. Pay the delivery fee now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS144,Your appointment is confirmed for Monday at 10:30 AM.,Legitimate,Green,True,needs_review
-SMS145,A limited investment opportunity requires immediate confirmation. Transfer the initial amount now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS146,Your outstanding notice requires urgent verification. Confirm your account now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS147,Your appointment reminder is for Thursday at 12:00 PM.,Legitimate,Green,True,needs_review
-SMS148,Your account security has detected a serious security problem. Call the support number now using the secure verification page.,Tech Support Scam,Amber,True,needs_review
-SMS149,Your appointment is confirmed for Thursday at 12:00 PM.,Legitimate,Green,True,needs_review
-SMS150,Your computer requires an urgent security check. Call the support number now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS151,Your university class is scheduled for Thursday at 12:00 PM.,Legitimate,Green,True,needs_review
-SMS152,Your delivery has been scheduled for Friday.,Legitimate,Green,True,needs_review
-SMS153,A special financial opportunity offers guaranteed returns. Register for the opportunity now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS154,Your online government account is awaiting confirmation. Complete the requested information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS155,Your investment opportunity requires immediate confirmation. Confirm your investment now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS156,Your online job application requires an application payment. Pay the registration fee now using the secure verification page.,Job Scam,Amber,True,needs_review
-SMS157,Your university class is scheduled for Tuesday at 4:30 PM.,Legitimate,Green,True,needs_review
-SMS158,Your delivery has been placed on hold. Confirm your parcel now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS159,Your computer may have been infected. Download the security tool now using the secure verification page.,Tech Support Scam,Amber,True,needs_review
-SMS160,Your selected reward is waiting to be claimed. Confirm your details now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS161,Your membership renewal is scheduled for Saturday.,Legitimate,Green,True,needs_review
-SMS162,Your scheduled service appointment is confirmed for Saturday.,Legitimate,Green,True,needs_review
-SMS163,A remote employment opportunity is ready for immediate approval. Provide your personal information now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS164,Your courier delivery could not be delivered. Reschedule the delivery now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS165,Your scheduled service appointment is confirmed for Tuesday.,Legitimate,Green,True,needs_review
-SMS166,Your package requires additional information. Confirm your parcel now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS167,Your investment opportunity requires an initial transfer. Provide your payment details now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS168,Your scheduled service appointment is confirmed for Monday.,Legitimate,Green,True,needs_review
-SMS169,Your appointment is confirmed for Friday at 2:00 PM.,Legitimate,Green,True,needs_review
-SMS170,Your tax record requires urgent verification. Complete the requested information now using the secure verification page.,Government Scam,Red,True,needs_review
-SMS171,A limited investment opportunity expires today. Transfer the initial amount now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS172,Your bank account has a pending security alert. Confirm your account now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS173,Your university class is scheduled for Wednesday at 2:00 PM.,Legitimate,Green,True,needs_review
-SMS174,Your courier delivery requires a delivery payment. Pay the delivery fee now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS175,A remote employment opportunity requires additional personal information. Send your banking details now using the secure verification page.,Job Scam,Red,True,needs_review
-SMS176,Your prize expires today. Complete the claim form now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS177,Your online booking has been confirmed.,Legitimate,Green,True,needs_review
-SMS178,Your prize requires identity confirmation. Complete the claim form now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS179,Your library book is due on Thursday.,Legitimate,Green,True,needs_review
-SMS180,Your cash reward requires identity confirmation. Pay the processing fee now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS181,Your subscription payment was processed successfully.,Legitimate,Green,True,needs_review
-SMS182,A new investment offer expires today. Register for the opportunity now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS183,A recent transaction has detected unusual activity. Confirm your account now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS184,Your promotional reward has been approved. Verify your information now using the secure verification page.,Prize Scam,Amber,True,needs_review
-SMS185,A recent transaction requires an identity check. Verify your details now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS186,Your prize requires a processing payment. Verify your information now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS187,A recent transaction has a pending security alert. Review the security alert now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS188,Your prize has been approved. Verify your information now using the secure verification page.,Prize Scam,Red,True,needs_review
-SMS189,Your debit card has a pending security alert. Confirm the transaction now using the secure verification page.,Bank Scam,Red,True,needs_review
-SMS190,A special financial opportunity offers guaranteed returns. Secure your investment now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS191,Your library book is due on Tuesday.,Legitimate,Green,True,needs_review
-SMS192,Your membership renewal is scheduled for Friday.,Legitimate,Green,True,needs_review
-SMS193,Your device requires immediate technical support. Install the recommended software now using the secure verification page.,Tech Support Scam,Amber,True,needs_review
-SMS194,Your government account is awaiting confirmation. Confirm your account now using the secure verification page.,Government Scam,Amber,True,needs_review
-SMS195,Your appointment reminder is for Monday at 4:30 PM.,Legitimate,Green,True,needs_review
-SMS196,Your account security requires an urgent security check. Confirm your device details now using the secure verification page.,Tech Support Scam,Red,True,needs_review
-SMS197,A special financial opportunity requires an initial transfer. Transfer the initial amount now using the secure verification page.,Investment Scam,Red,True,needs_review
-SMS198,Your shipment requires a delivery payment. Update your delivery details now using the secure verification page.,Delivery Scam,Red,True,needs_review
-SMS199,Your online government account requires an immediate response. Review the notice now using the secure verification page.,Government Scam,Amber,True,needs_review
-SMS200,Your promotional reward requires identity confirmation. Confirm your details now using the secure verification page.,Prize Scam,Red,True,needs_review
+SMS001,Your your bank account has been temporarily restricted. Confirm your details using the secure verification page.,Bank Scam,Amber,True,needs_review
+SMS002,Your your bank account has been temporarily restricted. Verify your account immediately to avoid suspension.,Bank Scam,Amber,True,needs_review
+SMS003,Your your bank account has been temporarily restricted. Confirm your banking information now.,Bank Scam,Amber,True,needs_review
+SMS004,Your your bank account has been temporarily restricted. Use the verification link to restore access.,Bank Scam,Amber,True,needs_review
+SMS005,Your your bank account has been temporarily restricted. Update your details before the account is restricted.,Bank Scam,Amber,True,needs_review
+SMS006,Your your bank account requires immediate verification. Confirm your details using the secure verification page.,Bank Scam,Amber,True,needs_review
+SMS007,Your your bank account requires immediate verification. Verify your account immediately to avoid suspension.,Bank Scam,Amber,True,needs_review
+SMS008,Your your bank account requires immediate verification. Confirm your banking information now.,Bank Scam,Amber,True,needs_review
+SMS009,Your your bank account requires immediate verification. Use the verification link to restore access.,Bank Scam,Amber,True,needs_review
+SMS010,Your your bank account requires immediate verification. Update your details before the account is restricted.,Bank Scam,Amber,True,needs_review
+SMS011,Your your bank account has detected suspicious activity. Confirm your details using the secure verification page.,Bank Scam,Amber,True,needs_review
+SMS012,Your your bank account has detected suspicious activity. Verify your account immediately to avoid suspension.,Bank Scam,Amber,True,needs_review
+SMS013,Your your bank account has detected suspicious activity. Confirm your banking information now.,Bank Scam,Amber,True,needs_review
+SMS014,Your your bank account has detected suspicious activity. Use the verification link to restore access.,Bank Scam,Amber,True,needs_review
+SMS015,Your your bank account has detected suspicious activity. Update your details before the account is restricted.,Bank Scam,Amber,True,needs_review
+SMS016,Your your bank account needs a security confirmation. Confirm your details using the secure verification page.,Bank Scam,Amber,True,needs_review
+SMS017,Your your bank account needs a security confirmation. Verify your account immediately to avoid suspension.,Bank Scam,Amber,True,needs_review
+SMS018,Your your bank account needs a security confirmation. Confirm your banking information now.,Bank Scam,Amber,True,needs_review
+SMS019,Your your parcel could not be delivered. Pay the required fee using the attached link.,Delivery Scam,Amber,True,needs_review
+SMS020,Your your parcel could not be delivered. Confirm your delivery details immediately.,Delivery Scam,Amber,True,needs_review
+SMS021,Your your parcel could not be delivered. Update your address to arrange delivery.,Delivery Scam,Amber,True,needs_review
+SMS022,Your your parcel could not be delivered. Complete the payment before the parcel is returned.,Delivery Scam,Amber,True,needs_review
+SMS023,Your your parcel could not be delivered. Use the link to reschedule the delivery.,Delivery Scam,Amber,True,needs_review
+SMS024,Your your parcel is waiting for address confirmation. Pay the required fee using the attached link.,Delivery Scam,Amber,True,needs_review
+SMS025,Your your parcel is waiting for address confirmation. Confirm your delivery details immediately.,Delivery Scam,Amber,True,needs_review
+SMS026,Your your parcel is waiting for address confirmation. Update your address to arrange delivery.,Delivery Scam,Amber,True,needs_review
+SMS027,Your your parcel is waiting for address confirmation. Complete the payment before the parcel is returned.,Delivery Scam,Amber,True,needs_review
+SMS028,Your your parcel is waiting for address confirmation. Use the link to reschedule the delivery.,Delivery Scam,Amber,True,needs_review
+SMS029,Your your parcel has been placed on hold. Pay the required fee using the attached link.,Delivery Scam,Amber,True,needs_review
+SMS030,Your your parcel has been placed on hold. Confirm your delivery details immediately.,Delivery Scam,Amber,True,needs_review
+SMS031,Your your parcel has been placed on hold. Update your address to arrange delivery.,Delivery Scam,Amber,True,needs_review
+SMS032,Your your parcel has been placed on hold. Complete the payment before the parcel is returned.,Delivery Scam,Amber,True,needs_review
+SMS033,Your your parcel has been placed on hold. Use the link to reschedule the delivery.,Delivery Scam,Amber,True,needs_review
+SMS034,Your your parcel requires a delivery fee. Pay the required fee using the attached link.,Delivery Scam,Amber,True,needs_review
+SMS035,Your your parcel requires a delivery fee. Confirm your delivery details immediately.,Delivery Scam,Amber,True,needs_review
+SMS036,Your your government payment requires additional information. Submit your personal information immediately.,Government Scam,Amber,True,needs_review
+SMS037,Your your government payment requires additional information. Confirm your identity using the attached link.,Government Scam,Amber,True,needs_review
+SMS038,Your your government payment requires additional information. Pay the outstanding amount now.,Government Scam,Amber,True,needs_review
+SMS039,Your your government payment requires additional information. Verify your details to avoid further action.,Government Scam,Amber,True,needs_review
+SMS040,Your your government payment requires additional information. Complete the online verification process.,Government Scam,Amber,True,needs_review
+SMS041,Your your government payment has an outstanding issue. Submit your personal information immediately.,Government Scam,Amber,True,needs_review
+SMS042,Your your government payment has an outstanding issue. Confirm your identity using the attached link.,Government Scam,Amber,True,needs_review
+SMS043,Your your government payment has an outstanding issue. Pay the outstanding amount now.,Government Scam,Amber,True,needs_review
+SMS044,Your your government payment has an outstanding issue. Verify your details to avoid further action.,Government Scam,Amber,True,needs_review
+SMS045,Your your government payment has an outstanding issue. Complete the online verification process.,Government Scam,Amber,True,needs_review
+SMS046,Your your government payment is waiting for identity verification. Submit your personal information immediately.,Government Scam,Amber,True,needs_review
+SMS047,Your your government payment is waiting for identity verification. Confirm your identity using the attached link.,Government Scam,Amber,True,needs_review
+SMS048,Your your government payment is waiting for identity verification. Pay the outstanding amount now.,Government Scam,Amber,True,needs_review
+SMS049,Your your government payment is waiting for identity verification. Verify your details to avoid further action.,Government Scam,Amber,True,needs_review
+SMS050,Your your government payment is waiting for identity verification. Complete the online verification process.,Government Scam,Amber,True,needs_review
+SMS051,Your your government payment has been flagged for review. Submit your personal information immediately.,Government Scam,Amber,True,needs_review
+SMS052,Your your government payment has been flagged for review. Confirm your identity using the attached link.,Government Scam,Amber,True,needs_review
+SMS053,Your your job application requires additional personal information. Pay the registration fee to continue.,Job Scam,Amber,True,needs_review
+SMS054,Your your job application requires additional personal information. Send your personal details immediately.,Job Scam,Amber,True,needs_review
+SMS055,Your your job application requires additional personal information. Provide your bank information for salary processing.,Job Scam,Amber,True,needs_review
+SMS056,Your your job application requires additional personal information. Complete the verification form now.,Job Scam,Amber,True,needs_review
+SMS057,Your your job application requires additional personal information. Pay the required application charge.,Job Scam,Amber,True,needs_review
+SMS058,Your your job application has been selected for further processing. Pay the registration fee to continue.,Job Scam,Amber,True,needs_review
+SMS059,Your your job application has been selected for further processing. Send your personal details immediately.,Job Scam,Amber,True,needs_review
+SMS060,Your your job application has been selected for further processing. Provide your bank information for salary processing.,Job Scam,Amber,True,needs_review
+SMS061,Your your job application has been selected for further processing. Complete the verification form now.,Job Scam,Red,True,needs_review
+SMS062,Your your job application has been selected for further processing. Pay the required application charge.,Job Scam,Red,True,needs_review
+SMS063,Your your job application requires an application payment. Pay the registration fee to continue.,Job Scam,Red,True,needs_review
+SMS064,Your your job application requires an application payment. Send your personal details immediately.,Job Scam,Red,True,needs_review
+SMS065,Your your job application requires an application payment. Provide your bank information for salary processing.,Job Scam,Red,True,needs_review
+SMS066,Your your job application requires an application payment. Complete the verification form now.,Job Scam,Red,True,needs_review
+SMS067,Your your job application requires an application payment. Pay the required application charge.,Job Scam,Red,True,needs_review
+SMS068,Your your job application needs identity verification. Pay the registration fee to continue.,Job Scam,Red,True,needs_review
+SMS069,Your your job application needs identity verification. Send your personal details immediately.,Job Scam,Red,True,needs_review
+SMS070,Your your investment opportunity has generated a large return. Pay the required fee to release your funds.,Investment Scam,Red,True,needs_review
+SMS071,Your your investment opportunity has generated a large return. Deposit the requested amount immediately.,Investment Scam,Red,True,needs_review
+SMS072,Your your investment opportunity has generated a large return. Confirm your banking details to withdraw your money.,Investment Scam,Red,True,needs_review
+SMS073,Your your investment opportunity has generated a large return. Use the secure link to claim your investment return.,Investment Scam,Red,True,needs_review
+SMS074,Your your investment opportunity has generated a large return. Complete verification before the opportunity expires.,Investment Scam,Red,True,needs_review
+SMS075,Your your investment opportunity requires a withdrawal fee. Pay the required fee to release your funds.,Investment Scam,Red,True,needs_review
+SMS076,Your your investment opportunity requires a withdrawal fee. Deposit the requested amount immediately.,Investment Scam,Red,True,needs_review
+SMS077,Your your investment opportunity requires a withdrawal fee. Confirm your banking details to withdraw your money.,Investment Scam,Red,True,needs_review
+SMS078,Your your investment opportunity requires a withdrawal fee. Use the secure link to claim your investment return.,Investment Scam,Red,True,needs_review
+SMS079,Your your investment opportunity requires a withdrawal fee. Complete verification before the opportunity expires.,Investment Scam,Red,True,needs_review
+SMS080,Your your investment opportunity needs account verification. Pay the required fee to release your funds.,Investment Scam,Red,True,needs_review
+SMS081,Your your investment opportunity needs account verification. Deposit the requested amount immediately.,Investment Scam,Red,True,needs_review
+SMS082,Your your investment opportunity needs account verification. Confirm your banking details to withdraw your money.,Investment Scam,Red,True,needs_review
+SMS083,Your your investment opportunity needs account verification. Use the secure link to claim your investment return.,Investment Scam,Red,True,needs_review
+SMS084,Your your investment opportunity needs account verification. Complete verification before the opportunity expires.,Investment Scam,Red,True,needs_review
+SMS085,Your your investment opportunity has been selected for a special opportunity. Pay the required fee to release your funds.,Investment Scam,Red,True,needs_review
+SMS086,Your your investment opportunity has been selected for a special opportunity. Deposit the requested amount immediately.,Investment Scam,Red,True,needs_review
+SMS087,Your your prize has been selected for collection. Pay the processing fee to receive your prize.,Prize Scam,Red,True,needs_review
+SMS088,Your your prize has been selected for collection. Confirm your details immediately.,Prize Scam,Red,True,needs_review
+SMS089,Your your prize has been selected for collection. Use the link to claim your reward.,Prize Scam,Red,True,needs_review
+SMS090,Your your prize has been selected for collection. Provide your banking details for payment.,Prize Scam,Red,True,needs_review
+SMS091,Your your prize has been selected for collection. Complete the claim form before the deadline.,Prize Scam,Red,True,needs_review
+SMS092,Your your prize requires a small processing fee. Pay the processing fee to receive your prize.,Prize Scam,Red,True,needs_review
+SMS093,Your your prize requires a small processing fee. Confirm your details immediately.,Prize Scam,Red,True,needs_review
+SMS094,Your your prize requires a small processing fee. Use the link to claim your reward.,Prize Scam,Red,True,needs_review
+SMS095,Your your prize requires a small processing fee. Provide your banking details for payment.,Prize Scam,Red,True,needs_review
+SMS096,Your your prize requires a small processing fee. Complete the claim form before the deadline.,Prize Scam,Red,True,needs_review
+SMS097,Your your prize is waiting for your confirmation. Pay the processing fee to receive your prize.,Prize Scam,Red,True,needs_review
+SMS098,Your your prize is waiting for your confirmation. Confirm your details immediately.,Prize Scam,Red,True,needs_review
+SMS099,Your your prize is waiting for your confirmation. Use the link to claim your reward.,Prize Scam,Red,True,needs_review
+SMS100,Your your prize is waiting for your confirmation. Provide your banking details for payment.,Prize Scam,Red,True,needs_review
+SMS101,Your your prize is waiting for your confirmation. Complete the claim form before the deadline.,Prize Scam,Red,True,needs_review
+SMS102,Your your prize has been approved for delivery. Pay the processing fee to receive your prize.,Prize Scam,Red,True,needs_review
+SMS103,Your your prize has been approved for delivery. Confirm your details immediately.,Prize Scam,Red,True,needs_review
+SMS104,Your your computer has detected a serious security threat. Call the support number immediately.,Tech Support Scam,Red,True,needs_review
+SMS105,Your your computer has detected a serious security threat. Install the security software from the provided link.,Tech Support Scam,Red,True,needs_review
+SMS106,Your your computer has detected a serious security threat. Confirm your device details now.,Tech Support Scam,Red,True,needs_review
+SMS107,Your your computer has detected a serious security threat. Allow the support team to access your computer.,Tech Support Scam,Red,True,needs_review
+SMS108,Your your computer has detected a serious security threat. Pay for the security service immediately.,Tech Support Scam,Red,True,needs_review
+SMS109,Your your computer may have been infected. Call the support number immediately.,Tech Support Scam,Red,True,needs_review
+SMS110,Your your computer may have been infected. Install the security software from the provided link.,Tech Support Scam,Red,True,needs_review
+SMS111,Your your computer may have been infected. Confirm your device details now.,Tech Support Scam,Red,True,needs_review
+SMS112,Your your computer may have been infected. Allow the support team to access your computer.,Tech Support Scam,Red,True,needs_review
+SMS113,Your your computer may have been infected. Pay for the security service immediately.,Tech Support Scam,Red,True,needs_review
+SMS114,Your your computer has detected suspicious activity. Call the support number immediately.,Tech Support Scam,Red,True,needs_review
+SMS115,Your your computer has detected suspicious activity. Install the security software from the provided link.,Tech Support Scam,Red,True,needs_review
+SMS116,Your your computer has detected suspicious activity. Confirm your device details now.,Tech Support Scam,Red,True,needs_review
+SMS117,Your your computer has detected suspicious activity. Allow the support team to access your computer.,Tech Support Scam,Red,True,needs_review
+SMS118,Your your computer has detected suspicious activity. Pay for the security service immediately.,Tech Support Scam,Red,True,needs_review
+SMS119,Your your computer requires immediate technical support. Call the support number immediately.,Tech Support Scam,Red,True,needs_review
+SMS120,Your your computer requires immediate technical support. Install the security software from the provided link.,Tech Support Scam,Red,True,needs_review
+SMS121,Your bank statement is ready to view in your official account.,Legitimate,Green,True,needs_review
+SMS122,Your bank statement is ready to view in your official account. Notification received on Monday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS123,Your bank statement is ready to view in your official account. Notification received on Monday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS124,Your bank statement is ready to view in your official account. Notification received on Monday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS125,Your bank statement is ready to view in your official account. Notification received on Monday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS126,Your bank statement is ready to view in your official account. Notification received on Tuesday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS127,Your bank statement is ready to view in your official account. Notification received on Tuesday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS128,Your bank statement is ready to view in your official account. Notification received on Tuesday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS129,Your bank statement is ready to view in your official account. Notification received on Tuesday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS130,Your bank statement is ready to view in your official account. Notification received on Wednesday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS131,Your bank statement is ready to view in your official account. Notification received on Wednesday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS132,Your bank statement is ready to view in your official account. Notification received on Wednesday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS133,Your bank statement is ready to view in your official account. Notification received on Wednesday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS134,Your bank statement is ready to view in your official account. Notification received on Thursday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS135,Your bank statement is ready to view in your official account. Notification received on Thursday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS136,Your bank statement is ready to view in your official account. Notification received on Thursday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS137,Your bank statement is ready to view in your official account. Notification received on Thursday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS138,Your bank statement is ready to view in your official account. Notification received on Friday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS139,Your bank statement is ready to view in your official account. Notification received on Friday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS140,Your bank statement is ready to view in your official account. Notification received on Friday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS141,Your bank statement is ready to view in your official account. Notification received on Friday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS142,Your bank statement is ready to view in your official account. Notification received on Saturday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS143,Your bank statement is ready to view in your official account. Notification received on Saturday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS144,Your bank statement is ready to view in your official account. Notification received on Saturday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS145,Your bank statement is ready to view in your official account. Notification received on Saturday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS146,Your bank statement is ready to view in your official account. Notification received on Sunday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS147,Your bank statement is ready to view in your official account. Notification received on Sunday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS148,Your bank statement is ready to view in your official account. Notification received on Sunday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS149,Your bank statement is ready to view in your official account. Notification received on Sunday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS150,Your payment has been processed successfully.,Legitimate,Green,True,needs_review
+SMS151,Your payment has been processed successfully. Notification received on Monday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS152,Your payment has been processed successfully. Notification received on Monday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS153,Your payment has been processed successfully. Notification received on Monday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS154,Your payment has been processed successfully. Notification received on Monday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS155,Your payment has been processed successfully. Notification received on Tuesday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS156,Your payment has been processed successfully. Notification received on Tuesday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS157,Your payment has been processed successfully. Notification received on Tuesday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS158,Your payment has been processed successfully. Notification received on Tuesday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS159,Your payment has been processed successfully. Notification received on Wednesday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS160,Your payment has been processed successfully. Notification received on Wednesday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS161,Your payment has been processed successfully. Notification received on Wednesday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS162,Your payment has been processed successfully. Notification received on Wednesday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS163,Your payment has been processed successfully. Notification received on Thursday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS164,Your payment has been processed successfully. Notification received on Thursday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS165,Your payment has been processed successfully. Notification received on Thursday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS166,Your payment has been processed successfully. Notification received on Thursday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS167,Your payment has been processed successfully. Notification received on Friday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS168,Your payment has been processed successfully. Notification received on Friday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS169,Your payment has been processed successfully. Notification received on Friday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS170,Your payment has been processed successfully. Notification received on Friday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS171,Your payment has been processed successfully. Notification received on Saturday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS172,Your payment has been processed successfully. Notification received on Saturday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS173,Your payment has been processed successfully. Notification received on Saturday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS174,Your payment has been processed successfully. Notification received on Saturday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS175,Your payment has been processed successfully. Notification received on Sunday at 9:00 AM.,Legitimate,Green,True,needs_review
+SMS176,Your payment has been processed successfully. Notification received on Sunday at 11:30 AM.,Legitimate,Green,True,needs_review
+SMS177,Your payment has been processed successfully. Notification received on Sunday at 2:00 PM.,Legitimate,Green,True,needs_review
+SMS178,Your payment has been processed successfully. Notification received on Sunday at 6:30 PM.,Legitimate,Green,True,needs_review
+SMS179,Your delivery is ready to track through the official service.,Legitimate,Green,True,needs_review
+SMS180,Your delivery is ready to track through the official service. Notification received on Monday at 9:00 AM.,Legitimate,Green,True,needs_review
