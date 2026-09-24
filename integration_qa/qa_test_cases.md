@@ -24,3 +24,20 @@ These test cases are designed to check that ShieldSense correctly processes mess
 The purpose of these tests is to verify that the ShieldSense components work together correctly and that the risk classification produced by the detection component is accurately displayed by the interface.
 
 Testing will be performed when the model and interface components are available for integration.
+## Supervisor Feedback Test Cases
+
+These test cases were added based on the supervisor's Week 4 feedback and will be used to verify the rules-based baseline after integration.
+
+| Test ID | Test Description | Input Message | Expected Result |
+|---|---|---|---|
+| TC07 | Password request | "Send me your password now" | HIGH |
+| TC08 | Blocked bank account and transfer request | "Your bank account has been blocked, transfer now" | HIGH |
+| TC09 | Urgency-only message | "URGENT! Act now, limited time!" | LOW |
+| TC10 | Word-boundary check | "Going shopping later?" | LOW |
+
+### QA Purpose
+
+- TC07 checks that a direct password request is treated as a high-risk message.
+- TC08 checks that a blocked-account and transfer combination is detected as high risk.
+- TC09 checks that urgency language alone does not automatically produce a high-risk classification.
+- TC10 checks that the word "pin" is not incorrectly detected inside another word such as "shopping".
