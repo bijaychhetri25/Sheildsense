@@ -1,12 +1,13 @@
 import re
 
 
-# ShieldSense Week 3 - Proposed Rules-Based Baseline
+# ShieldSense - Rules-Based Baseline
 # Student: Kapil Thapa Magar
 # Role: Model & Evaluation Lead
 #
-# These are initial proposed rules.
-# They may change after team and supervisor feedback.
+# Initial rules-based baseline for scam-message screening.
+# Rules are being refined based on testing, dataset evidence,
+# team input and supervisor feedback.
 
 
 # -----------------------------
@@ -43,8 +44,11 @@ PRIZE_WORDS = [
 
 THREAT_WORDS = [
     "account suspended",
+    "account has been suspended",
     "account blocked",
+    "account has been blocked",
     "account locked",
+    "account has been locked",
     "final warning"
 ]
 
@@ -54,9 +58,37 @@ THREAT_WORDS = [
 # -----------------------------
 
 def contains_keyword(message, keywords):
-    """Check whether the message contains a listed keyword."""
+    """
+    Check for keywords using word boundaries.
+    This prevents partial matches such as
+    'pin' being detected inside 'shopping'.
+    """
     message = message.lower()
-    return any(keyword in message for keyword in keywords)
+
+    for keyword in keywords:
+        pattern = r"\b" + re.escape(keyword.lower()) + r"\b"
+
+        if re.search(pattern, message):
+            return True
+
+    return False
+
+
+def count_keywords(message, keywords):
+    """
+    Count how many listed keywords or phrases
+    occur in the message.
+    """
+    message = message.lower()
+    count = 0
+
+    for keyword in keywords:
+        pattern = r"\b" + re.escape(keyword.lower()) + r"\b"
+
+        if re.search(pattern, message):
+            count += 1
+
+    return count
 
 
 def contains_url(message):
@@ -74,9 +106,14 @@ def classify_message(message):
     score = 0
     reasons = []
 
-    if contains_keyword(message, URGENCY_WORDS):
-        score += 1
-        reasons.append("Urgency language detected")
+    # Count separate urgency indicators
+    urgency_count = count_keywords(message, URGENCY_WORDS)
+
+    if urgency_count > 0:
+        score += urgency_count
+        reasons.append(
+            f"Urgency language detected ({urgency_count} indicator(s))"
+        )
 
     if contains_keyword(message, FINANCIAL_WORDS):
         score += 2
@@ -98,8 +135,8 @@ def classify_message(message):
         score += 2
         reasons.append("Threat or account-warning language detected")
 
-    # Proposed thresholds - not final
-    if score >= 5:
+    # Refined thresholds after supervisor feedback
+    if score >= 3:
         risk = "HIGH"
 
     elif score >= 2:
@@ -124,13 +161,20 @@ if __name__ == "__main__":
 
     test_messages = [
         "Hi, are we still meeting at 4pm today?",
-
         "Your payment is overdue. Please check your account.",
-
         "Congratulations! You have won a prize.",
 
         "URGENT! Your account has been suspended. "
-        "Verify your password immediately at http://example.com"
+        "Verify your password immediately at http://example.com",
+
+        # Supervisor test case:
+        # checks that 'pin' does not match inside 'shopping'
+        "Going shopping later?",
+
+        # Supervisor test cases for risk classification
+        "Send me your password now",
+        "Your bank account has been blocked, transfer now",
+        "URGENT! Act now, limited time!"
     ]
 
     for message in test_messages:
